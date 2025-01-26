@@ -63,7 +63,7 @@ export default function Navbar() {
 
       <div className="hidden lg:flex items-end justify-end gap-[15px] text-[#23A6F0]">
         <MdPersonOutline className="ml-7 text-[24px]" />
-        <Link href="#" className="text-[14px] font-[700] text-center">Login / Register</Link>
+        <Link href="/login" className="text-[14px] font-[700] text-center">Login / Register</Link>
         <FaSearch className="ml-4 text-[24px]" />
         <div className="flex items-center gap-4">
           <CgShoppingCart className="mr-1 text-[24px]" />
