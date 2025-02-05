@@ -96,7 +96,7 @@ export default function CartPage() {
                   className="text-gray-400 hover:text-red-500 p-2 rounded-md transition-colors"
                 >
                   <Image
-               src="https://cdn-icons-png.flaticon.com/512/3405/3405244.png"
+               src="/images/delete-icon.png"
               alt="Icon"
               width={50}
               height={50}
