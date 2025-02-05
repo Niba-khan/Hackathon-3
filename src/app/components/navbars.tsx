@@ -3,7 +3,7 @@ import Link from "next/link"
 export default function Navbars(){
     return(
     <div className="flex justify-between items-center px-8 py-4">
-  <h1 className="text-lg font-bold">Bandage</h1>
+  <h1 className="text-lg font-bold">Khan`s Collection</h1>
   <nav className="flex space-x-4 text-[#737373] text-[14px]">
   <Link href="/" className="hover:text-blue-700">
           home
