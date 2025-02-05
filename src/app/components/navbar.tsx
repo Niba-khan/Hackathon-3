@@ -15,7 +15,7 @@ export default function Navbar() {
   return (
     <div className="container w-full max-w-[1437px] h-[58px] top-[70px] p-4 flex justify-between items-center mb-10">
 
-      <h3 className="font-[700] text-[24px] pl-6">Bandage</h3>
+      <h3 className="font-[700] text-[24px] pl-6">Khan`s Collection</h3>
 
       <div className="lg:hidden flex items-center">
         <GiHamburgerMenu
