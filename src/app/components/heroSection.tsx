@@ -7,7 +7,7 @@ export default function HeroSection() {
      
       <div className="absolute inset-0">
         <Image
-          src="/images/heroImage.png"
+          src="/images/logo.jpeg"
           alt="Background"
           width={1440}
           height={716}
